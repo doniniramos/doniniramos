@@ -18,6 +18,12 @@
   color: #03DAC6;
 
   text-decoration: none;
+
+  font-size: 40px !important;  line-height: 42px !important; 
+}
+
+.title mark {
+  background-color: #03DAC6;
 }
 
 .title {
