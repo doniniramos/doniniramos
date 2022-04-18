@@ -8,6 +8,7 @@ export default function Home() {
       
       <main className={styles.main}>
       <Head>
+          <title>Oi! Eu sou o Donini!</title>
           <link
             href="https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap"
             rel="stylesheet"
