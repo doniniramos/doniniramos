@@ -1,6 +1,6 @@
 import '../styles/globals.css'
 
-import * as gtag from '../lib/gtag'
+import * as gtag from '../gtag'
 
 function MyApp({ Component, pageProps }) {
   return <Component {...pageProps} />
